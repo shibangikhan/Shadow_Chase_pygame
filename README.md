@@ -16,3 +16,6 @@ Make sure you have Python and Pygame installed:
 Then run:
 "python shadow_chase.py"
 Place caught.wav and pass.wav sound files in the same directory.
+
+![Gameplay pass](pass.mp4)
+![Gameplay caught](caught.mp4)
